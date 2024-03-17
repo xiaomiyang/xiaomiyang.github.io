@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "QJA49UEAYT.com.xiaobin.ncevp",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "QJA49UEAYT.com.xiaobin.ncenglish",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
